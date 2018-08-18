@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+43
+programa que calcula la desviacion estandar
+4
+1
+32
+'ingrese el numero de elementos'
+5
+1
+19
+numero_de_elementos
+6
+2
+28
+arreglo(numero_de_elementos)
+1
+0
+9
+sumatoria
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+23
+numero_de_elementos -1 
+1
+1
+1
+4
+1
+46
+'ingrese el valor a guardar en la posicion ',i
+5
+1
+5
+valor
+6
+1
+10
+arreglo(i)
+5
+valor
+10
+8
+1
+1
+i
+1
+1
+0
+1
+19
+numero_de_elementos
+1
+1
+1
+6
+1
+9
+sumatoria
+22
+arreglo(i) + sumatoria
+10
+6
+1
+8
+promedio
+31
+sumatoria / numero_de_elementos
+8
+1
+1
+i
+1
+1
+0
+1
+19
+numero_de_elementos
+1
+1
+1
+6
+2
+4
+temp
+21
+arreglo(i) - promedio
+9
+sumatoria
+7
+temp^ 2
+10
+6
+1
+10
+desviacion
+37
+sqrt(sumatoria / numero_de_elementos)
+4
+1
+30
+'la Desviacion Es' ,desviacion
+1

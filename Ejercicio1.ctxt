@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=
+comment1.target=double[]\ agregar_elementos()
+comment1.text=Escriba\ un\ programa\ en\ Java\ que\ lea\ un\ conjunto\ de\ n\ n\u00FAmeros\ double,\ los\ almacene\ en\ un\ arreglo\ o\r\n\ \ \ \ \ \ lista,\ y\ luego\ calcule\ la\ desviaci\u00F3n\ est\u00E1ndar\ de\ esos\ n\u00FAmeros,\ representada\ por\ la\ siguiente\ expresi\u00F3n\r\nmatem\u00E1tica\:
+comment2.params=arreglo
+comment2.target=double\ promedio(double[])
+comment3.params=arreglo
+comment3.target=double\ desviacion(double[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
